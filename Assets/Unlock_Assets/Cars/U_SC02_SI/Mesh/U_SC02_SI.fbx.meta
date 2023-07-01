@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: ba6b34a18bf25d547b79e7deb1a70b73
+timeCreated: 1510059520
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: caliper
+    100002: caliper1
+    100004: caliper2
+    100006: caliper3
+    100008: Calipers
+    100010: carBadge
+    100012: carBody
+    100014: carBotton
+    100016: carLight_Base
+    100018: carLight_Grille
+    100020: carLights_Glass
+    100022: carParts
+    100024: carParts1
+    100026: carSoftTop
+    100028: carWindows
+    100030: carWindows1
+    100032: interior_Low
+    100034: U_SC02_Interior_leather
+    100036: //RootNode
+    100038: Wheel_FL
+    100040: Wheel_FR
+    100042: Wheel_RL
+    100044: Wheel_RR
+    100046: wheels
+    400000: caliper
+    400002: caliper1
+    400004: caliper2
+    400006: caliper3
+    400008: Calipers
+    400010: carBadge
+    400012: carBody
+    400014: carBotton
+    400016: carLight_Base
+    400018: carLight_Grille
+    400020: carLights_Glass
+    400022: carParts
+    400024: carParts1
+    400026: carSoftTop
+    400028: carWindows
+    400030: carWindows1
+    400032: interior_Low
+    400034: U_SC02_Interior_leather
+    400036: //RootNode
+    400038: Wheel_FL
+    400040: Wheel_FR
+    400042: Wheel_RL
+    400044: Wheel_RR
+    400046: wheels
+    2100000: U_SC02_LightGlass_shdr
+    2100002: U_SC01_windows_shdr
+    2100004: U_SC02_hiveGrille_shdr
+    2100006: U_SC02_badge_shdr
+    2100008: U_SC02_carBody_shdr
+    2100010: U_SC02_black_shdr
+    2100012: U_SC02_frontGrille_shdr
+    2100014: U_SC02_Plastic_chdr
+    2100016: U_SC02_Interior_leather_shdr
+    2100018: U_SC02_Interior_chrome_shdr
+    2100020: U_SC02_Leather_sewing_shdr
+    2100022: U_SC02_RedLeather_SHDR
+    2100024: U_SC01_interior_shdr
+    2100026: U_SC02_InteriorTranspIcons_shdr
+    2100028: U_SC02_DoorGrill_shdr
+    2100030: Interior_02_U_SC02_bV_shdr
+    2100032: U_SC02_carBottom_shdr
+    2100034: U_SC02_tire_shdr
+    2100036: U_SC02_Wheels_shdr
+    2100038: U_SC02_rotor_shdr
+    2100040: U_SC02_Calipers_shdr
+    2100042: U_SC02_softTop_shdr
+    2100044: U_SC02_PositionLights_shdr
+    2300000: caliper
+    2300002: caliper1
+    2300004: caliper2
+    2300006: caliper3
+    2300008: carBadge
+    2300010: carBody
+    2300012: carBotton
+    2300014: carLight_Base
+    2300016: carLight_Grille
+    2300018: carLights_Glass
+    2300020: carParts
+    2300022: carParts1
+    2300024: carSoftTop
+    2300026: carWindows
+    2300028: carWindows1
+    2300030: interior_Low
+    2300032: U_SC02_Interior_leather
+    2300034: Wheel_FL
+    2300036: Wheel_FR
+    2300038: Wheel_RL
+    2300040: Wheel_RR
+    3300000: caliper
+    3300002: caliper1
+    3300004: caliper2
+    3300006: caliper3
+    3300008: carBadge
+    3300010: carBody
+    3300012: carBotton
+    3300014: carLight_Base
+    3300016: carLight_Grille
+    3300018: carLights_Glass
+    3300020: carParts
+    3300022: carParts1
+    3300024: carSoftTop
+    3300026: carWindows
+    3300028: carWindows1
+    3300030: interior_Low
+    3300032: U_SC02_Interior_leather
+    3300034: Wheel_FL
+    3300036: Wheel_FR
+    3300038: Wheel_RL
+    3300040: Wheel_RR
+    4300000: carLights_Glass
+    4300002: carWindows
+    4300004: carLight_Grille
+    4300006: carBadge
+    4300008: carBody
+    4300010: carParts1
+    4300012: interior_Low
+    4300014: carBotton
+    4300016: Wheel_FR
+    4300018: Wheel_RL
+    4300020: Wheel_FL
+    4300022: Wheel_RR
+    4300024: caliper
+    4300026: caliper1
+    4300028: caliper2
+    4300030: caliper3
+    4300032: carSoftTop
+    4300034: U_SC02_Interior_leather
+    4300036: carParts
+    4300038: carWindows1
+    4300040: carLight_Base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4.379
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

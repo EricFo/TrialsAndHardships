@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: c4c43803a8561a44989c4aadb06f317a
+timeCreated: 1510079727
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boot_grills
+    100002: brake_Rotor
+    100004: brake_Rotor 1
+    100006: brake_Rotor 2
+    100008: brake_Rotor 3
+    100010: brakeCaliper_Front
+    100012: brakeCaliper_Front 1
+    100014: brakeCaliper_rear
+    100016: brakeCaliper_rear 1
+    100018: cabin
+    100020: CarBody
+    100022: carbody
+    100024: carbody_top
+    100026: CarbonFiber
+    100028: chassis
+    100030: chassis_CF
+    100032: cockpit
+    100034: doors
+    100036: exhaust
+    100038: fronBumper_grill
+    100040: frontBumper_CF
+    100042: frontBumper_screews
+    100044: frontLight_Lens_Left
+    100046: frontLight_Lens_Right
+    100048: hood_BlackDetail
+    100050: hood_Parts
+    100052: Iterior_Low
+    100054: left
+    100056: Left_Window
+    100058: leftDoor
+    100060: leftDoor_CF
+    100062: leftDoor_Interior
+    100064: leftDoor_Mirror
+    100066: leftDoor_MirrorCF
+    100068: leftDoor_Parts
+    100070: leftDoor_screws
+    100072: paiel
+    100074: rear_window
+    100076: rearBumper_BlackDetail
+    100078: rearBumper_CF
+    100080: rearBumper_LeftLight
+    100082: rearBumper_light
+    100084: rearBumper_parts
+    100086: rearBumper_RightLight
+    100088: rearBumper_Screws
+    100090: right
+    100092: right_interior
+    100094: right_window
+    100096: rightDoor_CF
+    100098: rightDoor_Mirror
+    100100: rightDoor_MirrorCF
+    100102: rightDoor_Parts
+    100104: rightDoor_screws
+    100106: steeringWheel_Low
+    100108: tire1
+    100110: tire1 1
+    100112: tire1 2
+    100114: tire1 3
+    100116: top_screws
+    100118: //RootNode
+    100120: wheel
+    100122: wheel 1
+    100124: wheel 2
+    100126: wheel 3
+    100128: wheel_FL
+    100130: wheel_FR
+    100132: wheel_RL
+    100134: wheel_RR
+    100136: wheels
+    100138: windows
+    100140: Windshield
+    400000: boot_grills
+    400002: brake_Rotor
+    400004: brake_Rotor 1
+    400006: brake_Rotor 2
+    400008: brake_Rotor 3
+    400010: brakeCaliper_Front
+    400012: brakeCaliper_Front 1
+    400014: brakeCaliper_rear
+    400016: brakeCaliper_rear 1
+    400018: cabin
+    400020: CarBody
+    400022: carbody
+    400024: carbody_top
+    400026: CarbonFiber
+    400028: chassis
+    400030: chassis_CF
+    400032: cockpit
+    400034: doors
+    400036: exhaust
+    400038: fronBumper_grill
+    400040: frontBumper_CF
+    400042: frontBumper_screews
+    400044: frontLight_Lens_Left
+    400046: frontLight_Lens_Right
+    400048: hood_BlackDetail
+    400050: hood_Parts
+    400052: Iterior_Low
+    400054: left
+    400056: Left_Window
+    400058: leftDoor
+    400060: leftDoor_CF
+    400062: leftDoor_Interior
+    400064: leftDoor_Mirror
+    400066: leftDoor_MirrorCF
+    400068: leftDoor_Parts
+    400070: leftDoor_screws
+    400072: paiel
+    400074: rear_window
+    400076: rearBumper_BlackDetail
+    400078: rearBumper_CF
+    400080: rearBumper_LeftLight
+    400082: rearBumper_light
+    400084: rearBumper_parts
+    400086: rearBumper_RightLight
+    400088: rearBumper_Screws
+    400090: right
+    400092: right_interior
+    400094: right_window
+    400096: rightDoor_CF
+    400098: rightDoor_Mirror
+    400100: rightDoor_MirrorCF
+    400102: rightDoor_Parts
+    400104: rightDoor_screws
+    400106: steeringWheel_Low
+    400108: tire1
+    400110: tire1 1
+    400112: tire1 2
+    400114: tire1 3
+    400116: top_screws
+    400118: //RootNode
+    400120: wheel
+    400122: wheel 1
+    400124: wheel 2
+    400126: wheel 3
+    400128: wheel_FL
+    400130: wheel_FR
+    400132: wheel_RL
+    400134: wheel_RR
+    400136: wheels
+    400138: windows
+    400140: Windshield
+    2100000: U_RC01_CB_shdr
+    2100002: U_RC01_chrome_shdr
+    2100004: U_RC01_allen_head_shdr
+    2100006: U_RC01_carParts_shdr
+    2100008: U_RC01_blackDetails_shdr
+    2100010: U_RC01_carpaint_shdr
+    2100012: U_RC01_interior_Low_shdr
+    2100014: U_RC01_glass_windows_shdr
+    2100016: U_RC01_mirror_shdr
+    2100018: U_RC01_brakeCaliper_shdr
+    2100020: U_RC01_brake_rotor_shdr
+    2100022: U_RC01_tire_shdr
+    2100024: U_RC01_wheel_shdr
+    2300000: boot_grills
+    2300002: brake_Rotor
+    2300004: brake_Rotor 1
+    2300006: brake_Rotor 2
+    2300008: brake_Rotor 3
+    2300010: brakeCaliper_Front
+    2300012: brakeCaliper_Front 1
+    2300014: brakeCaliper_rear
+    2300016: brakeCaliper_rear 1
+    2300018: cabin
+    2300020: CarBody
+    2300022: carbody_top
+    2300024: CarbonFiber
+    2300026: chassis
+    2300028: chassis_CF
+    2300030: cockpit
+    2300032: exhaust
+    2300034: fronBumper_grill
+    2300036: frontBumper_CF
+    2300038: frontBumper_screews
+    2300040: frontLight_Lens_Left
+    2300042: frontLight_Lens_Right
+    2300044: hood_BlackDetail
+    2300046: hood_Parts
+    2300048: Left_Window
+    2300050: leftDoor_CF
+    2300052: leftDoor_Interior
+    2300054: leftDoor_Mirror
+    2300056: leftDoor_MirrorCF
+    2300058: leftDoor_Parts
+    2300060: leftDoor_screws
+    2300062: paiel
+    2300064: rear_window
+    2300066: rearBumper_BlackDetail
+    2300068: rearBumper_CF
+    2300070: rearBumper_LeftLight
+    2300072: rearBumper_light
+    2300074: rearBumper_parts
+    2300076: rearBumper_RightLight
+    2300078: rearBumper_Screws
+    2300080: right_interior
+    2300082: right_window
+    2300084: rightDoor_CF
+    2300086: rightDoor_Mirror
+    2300088: rightDoor_MirrorCF
+    2300090: rightDoor_Parts
+    2300092: rightDoor_screws
+    2300094: steeringWheel_Low
+    2300096: tire1
+    2300098: tire1 1
+    2300100: tire1 2
+    2300102: tire1 3
+    2300104: top_screws
+    2300106: wheel
+    2300108: wheel 1
+    2300110: wheel 2
+    2300112: wheel 3
+    2300114: Windshield
+    3300000: boot_grills
+    3300002: brake_Rotor
+    3300004: brake_Rotor 1
+    3300006: brake_Rotor 2
+    3300008: brake_Rotor 3
+    3300010: brakeCaliper_Front
+    3300012: brakeCaliper_Front 1
+    3300014: brakeCaliper_rear
+    3300016: brakeCaliper_rear 1
+    3300018: cabin
+    3300020: CarBody
+    3300022: carbody_top
+    3300024: CarbonFiber
+    3300026: chassis
+    3300028: chassis_CF
+    3300030: cockpit
+    3300032: exhaust
+    3300034: fronBumper_grill
+    3300036: frontBumper_CF
+    3300038: frontBumper_screews
+    3300040: frontLight_Lens_Left
+    3300042: frontLight_Lens_Right
+    3300044: hood_BlackDetail
+    3300046: hood_Parts
+    3300048: Left_Window
+    3300050: leftDoor_CF
+    3300052: leftDoor_Interior
+    3300054: leftDoor_Mirror
+    3300056: leftDoor_MirrorCF
+    3300058: leftDoor_Parts
+    3300060: leftDoor_screws
+    3300062: paiel
+    3300064: rear_window
+    3300066: rearBumper_BlackDetail
+    3300068: rearBumper_CF
+    3300070: rearBumper_LeftLight
+    3300072: rearBumper_light
+    3300074: rearBumper_parts
+    3300076: rearBumper_RightLight
+    3300078: rearBumper_Screws
+    3300080: right_interior
+    3300082: right_window
+    3300084: rightDoor_CF
+    3300086: rightDoor_Mirror
+    3300088: rightDoor_MirrorCF
+    3300090: rightDoor_Parts
+    3300092: rightDoor_screws
+    3300094: steeringWheel_Low
+    3300096: tire1
+    3300098: tire1 1
+    3300100: tire1 2
+    3300102: tire1 3
+    3300104: top_screws
+    3300106: wheel
+    3300108: wheel 1
+    3300110: wheel 2
+    3300112: wheel 3
+    3300114: Windshield
+    4300000: boot_grills
+    4300002: exhaust
+    4300004: frontBumper_screews
+    4300006: hood_Parts
+    4300008: rearBumper_parts
+    4300010: rearBumper_LeftLight
+    4300012: CarbonFiber
+    4300014: frontBumper_CF
+    4300016: fronBumper_grill
+    4300018: hood_BlackDetail
+    4300020: rearBumper_BlackDetail
+    4300022: rearBumper_Screws
+    4300024: rearBumper_light
+    4300026: rearBumper_CF
+    4300028: top_screws
+    4300030: rearBumper_RightLight
+    4300032: chassis_CF
+    4300034: chassis
+    4300036: carbody_top
+    4300038: CarBody
+    4300040: steeringWheel_Low
+    4300042: cockpit
+    4300044: paiel
+    4300046: cabin
+    4300048: frontLight_Lens_Right
+    4300050: frontLight_Lens_Left
+    4300052: rear_window
+    4300054: Windshield
+    4300056: rightDoor_Parts
+    4300058: rightDoor_screws
+    4300060: rightDoor_Mirror
+    4300062: rightDoor_MirrorCF
+    4300064: rightDoor_CF
+    4300066: right_window
+    4300068: right_interior
+    4300070: leftDoor_screws
+    4300072: leftDoor_Mirror
+    4300074: leftDoor_MirrorCF
+    4300076: leftDoor_Parts
+    4300078: leftDoor_CF
+    4300080: leftDoor_Interior
+    4300082: Left_Window
+    4300084: brakeCaliper_rear
+    4300086: brake_Rotor
+    4300088: tire1
+    4300090: wheel
+    4300092: brakeCaliper_rear
+    4300094: brake_Rotor
+    4300096: tire1
+    4300098: wheel
+    4300100: brake_Rotor
+    4300102: tire1
+    4300104: wheel
+    4300106: brakeCaliper_Front
+    4300108: brake_Rotor
+    4300110: tire1
+    4300112: wheel
+    4300114: brakeCaliper_Front
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4.64
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

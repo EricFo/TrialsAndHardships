@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 6b74235c0a18d954ea26344ac016943a
+timeCreated: 1509964472
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Interior_Low
+    100002: MC01_Wheel_FL
+    100004: U_MC01_blackShine
+    100006: U_MC01_Brake_Caliper_FL
+    100008: U_MC01_Brake_Caliper_FR
+    100010: U_MC01_Brake_Caliper_RL
+    100012: U_MC01_Brake_Caliper_RR
+    100014: U_MC01_carBody
+    100016: U_MC01_carbody_Windows
+    100018: U_MC01_Carbon
+    100020: U_MC01_carBottom
+    100022: U_MC01_carDetails
+    100024: U_MC01_carDetailsChrome
+    100026: U_MC01_carLights
+    100028: U_MC01_frontLights_Lens
+    100030: U_MC01_frontLights_On
+    100032: //RootNode
+    100034: U_MC01_Wheel_FL
+    100036: U_MC01_Wheel_FR
+    100038: U_MC01_Wheel_FR 1
+    100040: U_MC01_Wheel_RL
+    100042: U_MC01_Wheel_RL 1
+    100044: U_MC01_Wheel_RR
+    100046: U_MC01_Wheel_RR 1
+    100048: U_MC01_windMirrors
+    100050: U_MC_01_BrakeLighrs
+    100052: Wheels
+    400000: Interior_Low
+    400002: MC01_Wheel_FL
+    400004: U_MC01_blackShine
+    400006: U_MC01_Brake_Caliper_FL
+    400008: U_MC01_Brake_Caliper_FR
+    400010: U_MC01_Brake_Caliper_RL
+    400012: U_MC01_Brake_Caliper_RR
+    400014: U_MC01_carBody
+    400016: U_MC01_carbody_Windows
+    400018: U_MC01_Carbon
+    400020: U_MC01_carBottom
+    400022: U_MC01_carDetails
+    400024: U_MC01_carDetailsChrome
+    400026: U_MC01_carLights
+    400028: U_MC01_frontLights_Lens
+    400030: U_MC01_frontLights_On
+    400032: //RootNode
+    400034: U_MC01_Wheel_FL
+    400036: U_MC01_Wheel_FR
+    400038: U_MC01_Wheel_FR 1
+    400040: U_MC01_Wheel_RL
+    400042: U_MC01_Wheel_RL 1
+    400044: U_MC01_Wheel_RR
+    400046: U_MC01_Wheel_RR 1
+    400048: U_MC01_windMirrors
+    400050: U_MC_01_BrakeLighrs
+    400052: Wheels
+    2100000: U_MC01_LightsON
+    2100002: U_MC01_windMirrors_shdr
+    2100004: U_MC01_windows_shdr
+    2100006: U_MC01_frontLights_Lens_shdr
+    2100008: U_MC01_carBotton_shdr
+    2100010: U_MC01_carbonfiber_shdr
+    2100012: U_MC01_CarDetails_shdr
+    2100014: U_MC01_Chrome_shdr
+    2100016: U_MC01_CarBody_shdr
+    2100018: U_MC01_wheels_shdr
+    2100020: U_MC01_BrakeRotor_shdr
+    2100022: U_MC01_Tire_shdr
+    2100024: U_MC01_SteeringWheel_shdr
+    2100026: U_MC01_Panel_shdr
+    2100028: U_MC01_Interior_Icons_shdr
+    2100030: U_MC01_bV_shdr
+    2100032: U_MC01_PlasticPanel_shdr
+    2100034: U_MC01_interior_wChrome_shdr
+    2100036: U_MC01_SeatDetails_shdr
+    2300000: Interior_Low
+    2300002: MC01_Wheel_FL
+    2300004: U_MC01_blackShine
+    2300006: U_MC01_Brake_Caliper_FL
+    2300008: U_MC01_Brake_Caliper_FR
+    2300010: U_MC01_Brake_Caliper_RL
+    2300012: U_MC01_Brake_Caliper_RR
+    2300014: U_MC01_carBody
+    2300016: U_MC01_carbody_Windows
+    2300018: U_MC01_Carbon
+    2300020: U_MC01_carBottom
+    2300022: U_MC01_carDetails
+    2300024: U_MC01_carDetailsChrome
+    2300026: U_MC01_carLights
+    2300028: U_MC01_frontLights_Lens
+    2300030: U_MC01_frontLights_On
+    2300032: U_MC01_Wheel_FR 1
+    2300034: U_MC01_Wheel_RL 1
+    2300036: U_MC01_Wheel_RR 1
+    2300038: U_MC01_windMirrors
+    2300040: U_MC_01_BrakeLighrs
+    3300000: Interior_Low
+    3300002: MC01_Wheel_FL
+    3300004: U_MC01_blackShine
+    3300006: U_MC01_Brake_Caliper_FL
+    3300008: U_MC01_Brake_Caliper_FR
+    3300010: U_MC01_Brake_Caliper_RL
+    3300012: U_MC01_Brake_Caliper_RR
+    3300014: U_MC01_carBody
+    3300016: U_MC01_carbody_Windows
+    3300018: U_MC01_Carbon
+    3300020: U_MC01_carBottom
+    3300022: U_MC01_carDetails
+    3300024: U_MC01_carDetailsChrome
+    3300026: U_MC01_carLights
+    3300028: U_MC01_frontLights_Lens
+    3300030: U_MC01_frontLights_On
+    3300032: U_MC01_Wheel_FR 1
+    3300034: U_MC01_Wheel_RL 1
+    3300036: U_MC01_Wheel_RR 1
+    3300038: U_MC01_windMirrors
+    3300040: U_MC_01_BrakeLighrs
+    4300000: U_MC_01_BrakeLighrs
+    4300002: U_MC01_windMirrors
+    4300004: U_MC01_carbody_Windows
+    4300006: U_MC01_frontLights_Lens
+    4300008: U_MC01_frontLights_On
+    4300010: U_MC01_carBottom
+    4300012: U_MC01_Carbon
+    4300014: U_MC01_carDetailsChrome
+    4300016: U_MC01_blackShine
+    4300018: U_MC01_carDetails
+    4300020: U_MC01_carLights
+    4300022: U_MC01_carBody
+    4300024: U_MC01_Brake_Caliper_RL
+    4300026: U_MC01_Wheel_RL
+    4300028: U_MC01_Brake_Caliper_FL
+    4300030: MC01_Wheel_FL
+    4300032: U_MC01_Brake_Caliper_RR
+    4300034: U_MC01_Wheel_RR
+    4300036: U_MC01_Brake_Caliper_FR
+    4300038: U_MC01_Wheel_FR
+    4300040: Interior_Low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4.784
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
